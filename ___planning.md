@@ -7,13 +7,13 @@ However I wanted to follow the process so I can do more in the future. I did not
 https://www.figma.com/file/8N1iyq5EOsfG532JvGOILo/Part-IV?type=design&t=HcvvZIlw05BeKsmw-6
 
 BACKGROUND
-        
+
 Color: #FFFFFF
 Image: Perhaps subtle grey newspaper in french
 
 FONT
 
-Combining a sans serif Montserrat and a sans serif Libre Baskerville
+Combining a serif Garamond and a sans serif Helvetica
 
 H1 headers
 Font: Monstserrat, bold, large
