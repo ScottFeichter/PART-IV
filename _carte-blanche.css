@@ -3,7 +3,6 @@ h1 {font-family: Garamond, Times New Roman, serif;}
 h2 {font-family: Helvetica, Arial, sans-serif;}
 
 a {
-
     font-family: Helvetica, Arial, sans-serif;
     font-variant: small-caps;
     font-size: large;
@@ -12,12 +11,20 @@ a {
     text-decoration: none;
     padding: 1%;
     text-align: center;
+    border-radius: 25%;
+    transition-duration: .25s;
 }
 
 a:hover {
     background-color: white;
     color: black;
     transition-duration: .25s;
+}
+
+a:active {
+    background-color: white;
+    color: blue;
+    font-weight: bold;
 }
 
 #nav-div {
