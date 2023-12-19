@@ -1,10 +1,20 @@
 h1 {font-family: Garamond, Times New Roman, serif;}
+
 h2 {font-family: Helvetica, Arial, sans-serif;}
-a {font-family: Helvetica, Arial, sans-serif;}
+
+a {
+    font-family: Helvetica, Arial, sans-serif;
+    font-variant: small-caps;
+    color: white;
+    background-color: black;
+    text-decoration: none;
+}
+
 .nav-li {
     display: inline;
-    padding: 5%;
+    /* padding: 5%; */
 }
+
 #nav-ul {
     list-style-type: none;
     margin: 0;
