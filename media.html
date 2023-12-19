@@ -31,8 +31,42 @@
       </ul>
     </div>
 
-    <div id="form-div">
+    <form id="form" action="/pretend-form-handling-url" method="post">
+      <fieldset>
 
-    </div>
+        <legend>Send a message</legend>
+
+        <div>
+          <label for="firstName">First name</label>
+          <input type="text" id="firstName" name="first_name">
+        </div>
+
+        <div>
+          <label for="lastName">Last name</label>
+          <input type="text" id="lastName" name="last_name">
+        </div>
+
+        <div>
+          <label for="email">Email</label>
+          <input type="email" id="email" name="email_address">
+        </div>
+
+        <div>
+          <label for="message">Message</label>
+          <textarea id="message" name="message"></textarea>
+        </div>
+
+        <div>
+          <label for="mailList">Add to mail list</label>
+          <input type="checkbox" id="mailList" name="mail_list">
+        </div>
+
+        <div>
+          <button type="submit" id="submit">Submit</button>
+        </div>
+
+      </fieldset>
+
+    </form>
   </body>
 </html>
