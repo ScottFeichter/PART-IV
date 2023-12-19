@@ -75,3 +75,32 @@ h2 {font-family: Helvetica, Arial, sans-serif;}
     font-style: normal;
     font-size: x-large;
 }
+
+
+#home-h1-required-div {
+    /* border: 4px dashed purple; */
+    text-align: center;
+    margin: auto;
+}
+
+#home-h1-required {
+    /* border: 3px dotted orange; */
+    font-variant: small-caps;
+    font-weight: 10;
+    font-style: normal;
+    font-size: x-large;
+}
+
+#home-h2-required-div {
+    /* border: 4px dashed purple; */
+    text-align: center;
+    margin: auto;
+}
+
+#home-h2-required {
+    /* border: 3px dotted orange; */
+    font-variant: small-caps;
+    font-weight: 10;
+    font-style: normal;
+    font-size: x-large;
+}
