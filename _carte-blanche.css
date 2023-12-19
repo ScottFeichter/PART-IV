@@ -1,9 +1,15 @@
 h1 {font-family: Garamond, Times New Roman, serif;}
 h2 {font-family: Helvetica, Arial, sans-serif;}
 a {font-family: Helvetica, Arial, sans-serif;}
-li {display: inline;}
+.nav-li {
+    display: inline;
+    padding: 5%;
+}
 #nav-ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
+}
+#home-h1-tag-line {
+    font-variant: small-caps;
 }
