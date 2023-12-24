@@ -115,9 +115,13 @@ table, th, td, caption {
     border-collapse: collapse;
 }
 
+caption {
+    font-size: large;
+}
+
 td {
-    width: 4in;
-    height: 4in;
+    width: 3in;
+    height: 3in;
 }
 
 
@@ -145,4 +149,19 @@ label {
 
 input {
     width: 176px;
+}
+
+#shows-div {
+
+    text-align: center;
+
+}
+
+#shows-h1 {
+    text-align: center;
+}
+
+ul {
+    display: inline-block;
+    text-align: left;
 }
