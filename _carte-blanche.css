@@ -124,3 +124,25 @@ td {
 #table {
     margin: auto;
 }
+
+form {
+    margin: 50px 100px 0px 100px;
+}
+fieldset {
+    margin: auto;
+
+}
+
+.form-div-container {
+    display: flex;
+    justify-content: center;
+}
+
+label {
+    width: 176px;
+    text-align: left;
+}
+
+input {
+    width: 176px;
+}
